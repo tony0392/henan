@@ -20538,6 +20538,9 @@
 	<programme channel="动作电影" start="20250919201400 +0800" stop="20250919214300 +0800">
 		<title lang="zh">好嗨的历险记</title>
 	</programme>
+	<programme channel="动作电影" start="20250919214300 +0800" stop="20250919221300 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -67515,6 +67518,9 @@
 	<programme channel="纯享4K" start="20250919210700 +0800" stop="20250919213700 +0800">
 		<title lang="zh">寻古中国4K 河洛记b7匠心独具</title>
 	</programme>
+	<programme channel="纯享4K" start="20250919213700 +0800" stop="20250919220700 +0800">
+		<title lang="zh">寻古中国4K 河洛记b7聚落成邑</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -85617,6 +85623,9 @@
 	<programme channel="newtv家庭剧场" start="20250919211400 +0800" stop="20250919214400 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250919214400 +0800" stop="20250919223100 +0800">
+		<title lang="zh">28_血脉</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -85865,6 +85874,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250919201400 +0800" stop="20250919214300 +0800">
 		<title lang="zh">好嗨的历险记</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250919214300 +0800" stop="20250919221300 +0800">
+		<title lang="zh">《超级美味》推荐第7期</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -86699,6 +86711,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250919211500 +0800" stop="20250919214500 +0800">
 		<title lang="zh">《超级美味》推荐第7期</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250919214500 +0800" stop="20250919223200 +0800">
+		<title lang="zh">46_庆余年</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
