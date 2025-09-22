@@ -19305,6 +19305,9 @@
 	<programme channel="动作电影" start="20250922120300 +0800" stop="20250922123300 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="动作电影" start="20250922123300 +0800" stop="20250922140100 +0800">
+		<title lang="zh">火线追凶2之同名为仇</title>
+	</programme>
 	<channel id="动漫秀场">
 		<display-name lang="zh">动漫秀场</display-name>
 	</channel>
@@ -25436,6 +25439,9 @@
 	</programme>
 	<programme channel="咪咕综合体育" start="20250922123000 +0800" stop="20250922124500 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20250922124500 +0800" stop="20250922130000 +0800">
+		<title lang="zh">睛彩圈圈点第十期</title>
 	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
@@ -58041,6 +58047,9 @@
 	<programme channel="爱情喜剧" start="20250922120700 +0800" stop="20250922123700 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250922123700 +0800" stop="20250922131300 +0800">
+		<title lang="zh">03_兰闺喜事</title>
+	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
 	</channel>
@@ -79839,6 +79848,9 @@
 	<programme channel="newtv爱情喜剧" start="20250922120700 +0800" stop="20250922123700 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20250922123700 +0800" stop="20250922131300 +0800">
+		<title lang="zh">03_兰闺喜事</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -79877,6 +79889,9 @@
 	</programme>
 	<programme channel="newtv动作电影" start="20250922120300 +0800" stop="20250922123300 +0800">
 		<title lang="zh">《花样人生》推荐第61期</title>
+	</programme>
+	<programme channel="newtv动作电影" start="20250922123300 +0800" stop="20250922140100 +0800">
+		<title lang="zh">火线追凶2之同名为仇</title>
 	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
@@ -79940,6 +79955,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250922120300 +0800" stop="20250922124300 +0800">
 		<title lang="zh">黑芝麻丸</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250922124300 +0800" stop="20250922145800 +0800">
+		<title lang="zh">京剧《大名府》</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
