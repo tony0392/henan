@@ -19,6 +19,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227442/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227444/index.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.lizanyang.top/tv/北京卫视4K.png" group-title="4K超高清",北京卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227411/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.lizanyang.top/tv/北京卫视4K.png" group-title="4K超高清",北京卫视
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226677/index.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.lizanyang.top/tv/广东卫视4K.png" group-title="4K超高清",广东卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227415/index.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://live.lizanyang.top/tv/深圳卫视4K.png" group-title="4K超高清",深圳卫视
@@ -480,6 +482,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227370/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227396/index.m3u8
 #EXTINF:-1 tvg-id="襄城综合" tvg-name="襄城综合" tvg-logo="https://live.lizanyang.top/tv/襄城综合.png" group-title="河南地方",襄城综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227403/index.m3u8
+#EXTINF:-1 tvg-id="淮滨综合" tvg-name="淮滨综合" tvg-logo="https://live.lizanyang.top/tv/淮滨综合.png" group-title="河南地方",淮滨综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227070/index.m3u8
 #EXTINF:-1 tvg-id="大美河南" tvg-name="大美河南" tvg-logo="https://live.lizanyang.top/tv/大美河南.png" group-title="河南地方",大美河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226350/index.m3u8
 #EXTINF:-1 tvg-id="大美河南" tvg-name="大美河南" tvg-logo="https://live.lizanyang.top/tv/大美河南.png" group-title="河南地方",大美河南
@@ -534,8 +538,14 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226610/index.m3u8
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" tvg-logo="https://live.lizanyang.top/tv/老故事.png" group-title="数字综合",老故事
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226654/index.m3u8
+#EXTINF:-1 tvg-id="中学生" tvg-name="中学生" tvg-logo="https://live.lizanyang.top/tv/中学生.png" group-title="数字综合",中学生
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226347/index.m3u8
 #EXTINF:-1 tvg-id="摄影" tvg-name="摄影" tvg-logo="https://live.lizanyang.top/tv/摄影.png" group-title="数字综合",摄影频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226599/index.m3u8
+#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://live.lizanyang.top/tv/四海钓鱼.png" group-title="数字综合",四海钓鱼
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226333/index.m3u8
+#EXTINF:-1 tvg-id="新视觉HD" tvg-name="新视觉HD" tvg-logo="https://live.lizanyang.top/tv/新视觉HD.png" group-title="数字综合",新视觉HD
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226337/index.m3u8
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://live.lizanyang.top/tv/天元围棋.png" group-title="数字综合",天元围棋
 
 #EXTINF:-1 tvg-id="书画" tvg-name="书画" tvg-logo="https://live.lizanyang.top/tv/书画.png" group-title="数字综合",书画频道
