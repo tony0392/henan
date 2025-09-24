@@ -13,5 +13,5 @@
 - 主域名【`live.lizanyang.top`】的WEB访问通过Github Pages自动构建，由CloudFlare提供CDN和安全防护。
 - 项目所有文件均托管在[GitHub](https://github.com/lizanyang3/)且自动构建，由项目发起人公益维护
 
-09.22
-更新几个4k频道
+09.24
+更新几个4k频道logo
