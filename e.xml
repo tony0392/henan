@@ -59721,6 +59721,9 @@
 	<programme channel="newtv精品大剧" start="20260514095400 +0800" stop="20260514103500 +0800">
 		<title lang="zh">23_激情的岁月</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20260514103500 +0800" stop="20260514111700 +0800">
+		<title lang="zh">24_激情的岁月</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -59967,6 +59970,9 @@
 	<programme channel="newtv热播精选" start="20260514095800 +0800" stop="20260514104300 +0800">
 		<title lang="zh">07_千金保姆</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20260514104300 +0800" stop="20260514112800 +0800">
+		<title lang="zh">08_千金保姆</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -60080,6 +60086,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20260514095500 +0800" stop="20260514104000 +0800">
 		<title lang="zh">03_和平战士</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20260514104000 +0800" stop="20260514112500 +0800">
+		<title lang="zh">04_和平战士</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
