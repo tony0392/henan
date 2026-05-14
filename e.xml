@@ -59775,6 +59775,9 @@
 	<programme channel="newtv精品纪录" start="20260514101900 +0800" stop="20260514104800 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20260514104800 +0800" stop="20260514113400 +0800">
+		<title lang="zh">13_参工传奇</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -59822,6 +59825,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20260514100000 +0800" stop="20260514104700 +0800">
 		<title lang="zh">08_大奉打更人</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20260514104700 +0800" stop="20260514111700 +0800">
+		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -59874,6 +59880,9 @@
 	<programme channel="newtv军旅剧场" start="20260514102200 +0800" stop="20260514105200 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
 	</programme>
+	<programme channel="newtv军旅剧场" start="20260514105200 +0800" stop="20260514113700 +0800">
+		<title lang="zh">12_特别行动</title>
+	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
 	</channel>
@@ -59924,6 +59933,9 @@
 	</programme>
 	<programme channel="newtv家庭剧场" start="20260514102700 +0800" stop="20260514105700 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv家庭剧场" start="20260514105700 +0800" stop="20260514114300 +0800">
+		<title lang="zh">07_逆流而上的你</title>
 	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
@@ -60186,6 +60198,9 @@
 	<programme channel="newtv军事评论" start="20260514102600 +0800" stop="20260514104800 +0800">
 		<title lang="zh">战史重演b7黑斯廷斯之战</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20260514104800 +0800" stop="20260514111000 +0800">
+		<title lang="zh">战史重演b7法莱斯包围战</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -60243,6 +60258,9 @@
 	<programme channel="newtv炫舞未来" start="20260514100300 +0800" stop="20260514105900 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20260514105900 +0800" stop="20260514111100 +0800">
+		<title lang="zh">广场舞《红红的萨日朗》-乌兰图雅、王广成</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -60281,6 +60299,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20260514103000 +0800" stop="20260514110000 +0800">
 		<title lang="zh">徽封贡酒好物推荐</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20260514110000 +0800" stop="20260514120600 +0800">
+		<title lang="zh">出招吧！看不剑！</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
